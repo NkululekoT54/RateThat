@@ -1,0 +1,51 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 5, 2016, 7:53:42 PM
+    Author     : lenovo
+*/
+
+*{margin: 0px; 
+  padding: 0px;}
+
+header, section, footer{display: block;} /* this will position all these tags one under other */
+
+body{
+display: -webkit-box;
+border: 4px solid blueviolet;}
+
+#siteContent{
+display: -webkit-box;
+-webkit-box-orient: vertical; /*similar to inline-block\block. Vertical means block*/
+-webkit-box-flex: 1; /*1 means your site will adjust accorting to screen size and 0 is static*/
+border: 1px solid black; 
+}
+
+#header{background: beige; 
+padding: 20px;}
+
+#header span{display: inline-block;} /* this will position all these tags next to eachother */
+
+.siteSearch{float: right;}
+
+#d_sec{display: -webkit-box;
+border: red 4px solid;
+-webkit-box-pack: center;
+}
+
+#section a{display: inline-block; 
+padding: 100px;
+color: white;
+font-size: 30px;
+margin-left: 60px;
+}
+/*margin is top, right, bottom and left*/
+.movie{background-color: #51A39D;}
+.book{background-color: #B7695C;}
+.game{background-color: #CDBB79;}
+
+
+

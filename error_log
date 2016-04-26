@@ -1,0 +1,303 @@
+[30-Mar-2016 09:49:13 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting '`' in /home/imagecjd/public_html/rate/app/Core/Config.php on line 117
+[30-Mar-2016 09:49:13 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting '`' in /home/imagecjd/public_html/rate/app/Core/Config.php on line 117
+[09-Apr-2016 22:45:18 Europe/London] PHP Fatal error:  Call to undefined function Controllers\addMovie() in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 43
+[09-Apr-2016 22:45:30 Europe/London] PHP Fatal error:  Call to undefined function Controllers\addMovie() in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 43
+[09-Apr-2016 22:45:34 Europe/London] PHP Fatal error:  Call to undefined function Controllers\addMovie() in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 43
+[09-Apr-2016 22:58:27 Europe/London] PHP Parse error:  syntax error, unexpected 'addMovie' (T_STRING), expecting function (T_FUNCTION) in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 30
+[09-Apr-2016 22:59:44 Europe/London] PHP Parse error:  syntax error, unexpected 'addMovie' (T_STRING), expecting function (T_FUNCTION) in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 30
+[09-Apr-2016 22:59:56 Europe/London] PHP Parse error:  syntax error, unexpected 'addMovie' (T_STRING), expecting function (T_FUNCTION) in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 30
+[10-Apr-2016 09:36:58 Europe/London] PHP Fatal error:  Class 'Model\Addmovie' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 43
+[10-Apr-2016 09:36:59 Europe/London] PHP Fatal error:  Class 'Model\Addmovie' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 43
+[10-Apr-2016 09:37:42 Europe/London] PHP Parse error:  syntax error, unexpected 'store_Movie' (T_STRING) in /home/imagecjd/public_html/rate/app/Models/Addmovie.php on line 15
+[10-Apr-2016 09:38:56 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/imagecjd/public_html/rate/app/Models/Addmovie.php on line 15
+[10-Apr-2016 09:39:40 Europe/London] PHP Parse error:  syntax error, unexpected 'is' (T_STRING), expecting ',' or ';' in /home/imagecjd/public_html/rate/app/Models/Addmovie.php on line 15
+[10-Apr-2016 09:41:31 Europe/London] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/imagecjd/public_html/rate/app/Models/Addmovie.php on line 16
+[10-Apr-2016 09:41:57 Europe/London] PHP Parse error:  syntax error, unexpected 'Return' (T_RETURN) in /home/imagecjd/public_html/rate/app/Models/Addmovie.php on line 16
+[10-Apr-2016 09:48:43 Europe/London] PHP Fatal error:  Call to a member function saveMovies() on null in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 46
+[10-Apr-2016 10:22:20 Europe/London] PHP Parse error:  syntax error, unexpected '=' in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 31
+[10-Apr-2016 10:22:21 Europe/London] PHP Parse error:  syntax error, unexpected '=' in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 31
+[10-Apr-2016 10:23:52 Europe/London] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';' in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 19
+[10-Apr-2016 10:24:32 Europe/London] PHP Parse error:  syntax error, unexpected 'new' (T_NEW) in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 22
+[10-Apr-2016 10:26:44 Europe/London] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 41
+[10-Apr-2016 10:26:44 Europe/London] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 41
+[10-Apr-2016 10:28:29 Europe/London] PHP Fatal error:  Class 'Model\addMovie' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 41
+[10-Apr-2016 10:29:17 Europe/London] PHP Fatal error:  Class 'Model\addMovie' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 41
+[10-Apr-2016 10:29:17 Europe/London] PHP Fatal error:  Class 'Model\addMovie' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 41
+[10-Apr-2016 10:32:22 Europe/London] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 39
+[10-Apr-2016 10:32:23 Europe/London] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 39
+[10-Apr-2016 10:34:17 Europe/London] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 39
+[10-Apr-2016 10:34:39 Europe/London] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 39
+[10-Apr-2016 10:36:03 Europe/London] PHP Fatal error:  Class 'Controllers\Welcome' not found in /home/imagecjd/public_html/rate/app/Core/Router.php on line 122
+[10-Apr-2016 10:39:53 Europe/London] PHP Fatal error:  Class 'Models\AddMovie' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 43
+[10-Apr-2016 10:40:23 Europe/London] PHP Fatal error:  Class 'Models\AddMovie' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 43
+[10-Apr-2016 10:44:26 Europe/London] PHP Fatal error:  Call to a member function saveMovies() on null in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 44
+[10-Apr-2016 10:46:41 Europe/London] PHP Fatal error:  Call to a member function saveMovies() on null in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 44
+[10-Apr-2016 10:47:50 Europe/London] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 42
+[10-Apr-2016 10:48:30 Europe/London] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 42
+[10-Apr-2016 10:49:17 Europe/London] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 42
+[10-Apr-2016 10:53:38 Europe/London] PHP Parse error:  syntax error, unexpected '=' in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 46
+[10-Apr-2016 10:59:52 Europe/London] PHP Fatal error:  Class 'Model\Addmovie' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 43
+[10-Apr-2016 11:45:23 Europe/London] PHP Fatal error:  Class 'Controllers\Welcome' not found in /home/imagecjd/public_html/rate/app/Core/Router.php on line 122
+[10-Apr-2016 11:52:29 Europe/London] PHP Fatal error:  Undefined constant 'Models' in /home/imagecjd/public_html/rate/app/Models/Addmovie.php on line 9
+[10-Apr-2016 11:55:31 Europe/London] PHP Fatal error:  Undefined constant 'Models' in /home/imagecjd/public_html/rate/app/Models/Addmovie.php on line 9
+[10-Apr-2016 11:56:52 Europe/London] PHP Fatal error:  Undefined constant 'Models' in /home/imagecjd/public_html/rate/app/Models/Addmovie.php on line 9
+[10-Apr-2016 11:57:07 Europe/London] PHP Fatal error:  Undefined constant 'Model' in /home/imagecjd/public_html/rate/app/Models/Addmovie.php on line 9
+[10-Apr-2016 11:58:14 Europe/London] PHP Fatal error:  Class 'Models\Addmovie' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 31
+[10-Apr-2016 11:59:57 Europe/London] PHP Fatal error:  Undefined constant 'Model' in /home/imagecjd/public_html/rate/app/Models/Addmovie.php on line 9
+[10-Apr-2016 12:00:07 Europe/London] PHP Fatal error:  Undefined constant 'Model' in /home/imagecjd/public_html/rate/app/Models/Addmovie.php on line 9
+[10-Apr-2016 12:00:16 Europe/London] PHP Fatal error:  Undefined constant 'Models' in /home/imagecjd/public_html/rate/app/Models/Addmovie.php on line 9
+[10-Apr-2016 12:00:50 Europe/London] PHP Fatal error:  Undefined constant 'Models' in /home/imagecjd/public_html/rate/app/Models/Addmovie.php on line 2
+[10-Apr-2016 12:01:14 Europe/London] PHP Fatal error:  Undefined constant 'Models' in /home/imagecjd/public_html/rate/app/Models/Addmovie.php on line 3
+[10-Apr-2016 12:03:13 Europe/London] PHP Fatal error:  Undefined constant 'Models' in /home/imagecjd/public_html/rate/app/Models/Addmovie.php on line 3
+[10-Apr-2016 12:06:08 Europe/London] PHP Fatal error:  Undefined constant 'Models' in /home/imagecjd/public_html/rate/app/Models/Addmovie.php on line 4
+[10-Apr-2016 12:08:16 Europe/London] PHP Fatal error:  Class 'Models\Addmovie' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 31
+[10-Apr-2016 12:08:50 Europe/London] PHP Fatal error:  Undefined constant 'Models' in /home/imagecjd/public_html/rate/app/Models/Addmovie.php on line 4
+[10-Apr-2016 12:14:10 Europe/London] PHP Fatal error:  Class 'Models\Addmovie' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 31
+[10-Apr-2016 12:16:15 Europe/London] PHP Fatal error:  Class 'Models\Addmovie' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 31
+[10-Apr-2016 12:18:32 Europe/London] PHP Fatal error:  Class 'Models\Addmovie' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 31
+[10-Apr-2016 12:19:08 Europe/London] PHP Fatal error:  Class 'Models\contact' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 31
+[10-Apr-2016 12:19:58 Europe/London] PHP Fatal error:  Class 'Models\contacts' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 31
+[10-Apr-2016 12:26:24 Europe/London] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/imagecjd/public_html/rate/app/Models/contacts.php on line 18
+[10-Apr-2016 12:26:24 Europe/London] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/imagecjd/public_html/rate/app/Models/contacts.php on line 18
+[10-Apr-2016 12:55:15 Europe/London] PHP Fatal error:  Class 'Controllers\contacts' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 43
+[10-Apr-2016 12:55:16 Europe/London] PHP Fatal error:  Class 'Controllers\contacts' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 43
+[10-Apr-2016 12:56:31 Europe/London] PHP Fatal error:  Class 'Controllers\addMovie' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 43
+[10-Apr-2016 12:56:50 Europe/London] PHP Fatal error:  Class 'Controllers\addmovie' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 43
+[10-Apr-2016 12:59:51 Europe/London] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/imagecjd/public_html/rate/app/Models/Addmovie.php on line 14
+[10-Apr-2016 12:59:51 Europe/London] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/imagecjd/public_html/rate/app/Models/Addmovie.php on line 14
+[10-Apr-2016 13:00:21 Europe/London] PHP Fatal error:  Class 'Model' not found in /home/imagecjd/public_html/rate/app/Models/Addmovie.php on line 3
+[10-Apr-2016 13:38:03 Europe/London] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 26
+[10-Apr-2016 13:38:03 Europe/London] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 26
+[10-Apr-2016 13:43:06 Europe/London] PHP Parse error:  syntax error, unexpected 'Add' (T_STRING) in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 28
+[10-Apr-2016 13:43:42 Europe/London] PHP Parse error:  syntax error, unexpected '.' in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 28
+[10-Apr-2016 13:44:11 Europe/London] PHP Fatal error:  Class 'Controllers\Math_Model' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 27
+[10-Apr-2016 13:45:41 Europe/London] PHP Fatal error:  Class 'Controllers\math_Model' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 27
+[10-Apr-2016 13:46:56 Europe/London] PHP Fatal error:  Class 'Controllers\math_Model' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 27
+[10-Apr-2016 13:46:58 Europe/London] PHP Fatal error:  Class 'Controllers\math_Model' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 27
+[10-Apr-2016 13:47:30 Europe/London] PHP Fatal error:  Class 'Controllers\Math_Model' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 27
+[10-Apr-2016 13:47:30 Europe/London] PHP Fatal error:  Class 'Controllers\Math_Model' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 27
+[10-Apr-2016 13:48:39 Europe/London] PHP Parse error:  syntax error, unexpected 'new' (T_NEW) in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 27
+[10-Apr-2016 13:49:32 Europe/London] PHP Parse error:  syntax error, unexpected 'new' (T_NEW) in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 27
+[10-Apr-2016 13:49:33 Europe/London] PHP Parse error:  syntax error, unexpected 'new' (T_NEW) in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 27
+[10-Apr-2016 13:49:39 Europe/London] PHP Fatal error:  Class 'Models\Math_Model' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 27
+[10-Apr-2016 13:51:23 Europe/London] PHP Fatal error:  Class 'Models\Math_Model' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 27
+[10-Apr-2016 13:51:23 Europe/London] PHP Fatal error:  Class 'Models\Math_Model' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 27
+[10-Apr-2016 13:52:42 Europe/London] PHP Fatal error:  Class 'Controllers\Math_Model' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 27
+[10-Apr-2016 13:57:41 Europe/London] PHP Fatal error:  Class 'Controllers\contacts' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 27
+[10-Apr-2016 13:58:12 Europe/London] PHP Fatal error:  Class 'Core\Model\contacts' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 27
+[10-Apr-2016 13:59:10 Europe/London] PHP Fatal error:  Class 'Core\Model\contacts' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 27
+[10-Apr-2016 13:59:17 Europe/London] PHP Fatal error:  Class 'Controllers\Welcome' not found in /home/imagecjd/public_html/rate/app/Core/Router.php on line 122
+[10-Apr-2016 14:00:01 Europe/London] PHP Fatal error:  Class 'Controllers\contacts' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 27
+[10-Apr-2016 14:01:25 Europe/London] PHP Fatal error:  Class 'Models\Math_Model' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 27
+[10-Apr-2016 14:04:55 Europe/London] PHP Fatal error:  Call to undefined method Models\Math_Model::Sub() in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 28
+[10-Apr-2016 14:05:53 Europe/London] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/imagecjd/public_html/rate/app/Models/Math_Model.php on line 23
+[10-Apr-2016 14:06:31 Europe/London] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/imagecjd/public_html/rate/app/Models/Math_Model.php on line 23
+[10-Apr-2016 14:07:27 Europe/London] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/imagecjd/public_html/rate/app/Models/Math_Model.php on line 23
+[10-Apr-2016 16:59:40 Europe/London] PHP Fatal error:  Call to undefined method Controllers\welcome::renderTemplate() in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 31
+[10-Apr-2016 17:14:56 Europe/London] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/imagecjd/public_html/rate/app/Models/Math_Model.php on line 26
+[10-Apr-2016 17:14:56 Europe/London] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/imagecjd/public_html/rate/app/Models/Math_Model.php on line 26
+[10-Apr-2016 18:02:31 Europe/London] PHP Fatal error:  Call to a member function select() on null in /home/imagecjd/public_html/rate/app/Models/Math_Model.php on line 28
+[10-Apr-2016 18:02:31 Europe/London] PHP Fatal error:  Call to a member function select() on null in /home/imagecjd/public_html/rate/app/Models/Math_Model.php on line 28
+[10-Apr-2016 18:03:20 Europe/London] PHP Fatal error:  Call to a member function select() on null in /home/imagecjd/public_html/rate/app/Models/Math_Model.php on line 28
+[10-Apr-2016 18:04:45 Europe/London] PHP Fatal error:  Call to a member function select() on null in /home/imagecjd/public_html/rate/app/Models/Math_Model.php on line 30
+[10-Apr-2016 18:04:47 Europe/London] PHP Fatal error:  Call to a member function select() on null in /home/imagecjd/public_html/rate/app/Models/Math_Model.php on line 30
+[10-Apr-2016 18:06:03 Europe/London] PHP Fatal error:  Call to a member function select() on null in /home/imagecjd/public_html/rate/app/Models/Math_Model.php on line 30
+[10-Apr-2016 18:06:06 Europe/London] PHP Fatal error:  Call to a member function select() on null in /home/imagecjd/public_html/rate/app/Models/Math_Model.php on line 30
+[10-Apr-2016 18:09:02 Europe/London] PHP Fatal error:  Call to a member function select() on null in /home/imagecjd/public_html/rate/app/Models/Math_Model.php on line 30
+[10-Apr-2016 18:15:45 Europe/London] PHP Fatal error:  Call to a member function select() on null in /home/imagecjd/public_html/rate/app/Models/Math_Model.php on line 30
+[10-Apr-2016 18:27:12 Europe/London] PHP Parse error:  syntax error, unexpected ')' in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 31
+[10-Apr-2016 18:27:37 Europe/London] PHP Parse error:  syntax error, unexpected 'array_values' (T_STRING), expecting '(' in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 32
+[10-Apr-2016 18:58:48 Europe/London] PHP Fatal error:  Class 'Controllers\TMDB' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 27
+[10-Apr-2016 19:00:11 Europe/London] PHP Fatal error:  Class 'Controllers\TMDB' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 27
+[10-Apr-2016 19:02:47 Europe/London] PHP Fatal error:  Cannot redeclare Controllers\TMDB::__construct() in /home/imagecjd/public_html/rate/app/Controllers/tmdb-api.php on line 116
+[10-Apr-2016 19:03:34 Europe/London] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home/imagecjd/public_html/rate/app/Controllers/tmdb-api.php on line 97
+[10-Apr-2016 19:06:53 Europe/London] PHP Fatal error:  Cannot redeclare Controllers\TMDB::__construct() in /home/imagecjd/public_html/rate/app/Controllers/tmdb-api.php on line 117
+[10-Apr-2016 19:13:45 Europe/London] PHP Fatal error:  Class 'Controllers\Welcome' not found in /home/imagecjd/public_html/rate/app/Core/Router.php on line 122
+[10-Apr-2016 19:14:16 Europe/London] PHP Fatal error:  Class 'Controllers\TMDB' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 27
+[10-Apr-2016 19:15:12 Europe/London] PHP Fatal error:  Class 'Controllers\Welcome' not found in /home/imagecjd/public_html/rate/app/Core/Router.php on line 122
+[10-Apr-2016 19:17:34 Europe/London] PHP Fatal error:  Cannot redeclare Controllers\TMDB::__construct() in /home/imagecjd/public_html/rate/app/Controllers/tmdb-api.php on line 118
+[10-Apr-2016 19:19:13 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/imagecjd/public_html/rate/app/Controllers/tmdb-api.php on line 569
+[10-Apr-2016 19:24:56 Europe/London] PHP Fatal error:  Class 'Controllers\Movie' not found in /home/imagecjd/public_html/rate/app/Controllers/tmdb-api.php on line 506
+[10-Apr-2016 19:39:31 Europe/London] PHP Fatal error:  Class 'Controllers\Movie' not found in /home/imagecjd/public_html/rate/app/Controllers/tmdb-api.php on line 506
+[10-Apr-2016 19:43:08 Europe/London] PHP Fatal error:  Class 'Controllers\Movie' not found in /home/imagecjd/public_html/rate/app/Controllers/tmdb-api.php on line 506
+[10-Apr-2016 19:44:38 Europe/London] PHP Fatal error:  Class 'Controllers\Movie' not found in /home/imagecjd/public_html/rate/app/Controllers/tmdb-api.php on line 506
+[10-Apr-2016 19:55:49 Europe/London] PHP Fatal error:  Cannot redeclare class Movie in /home/imagecjd/public_html/rate/app/Controllers/Movie.php on line 12
+[10-Apr-2016 19:55:51 Europe/London] PHP Fatal error:  Cannot redeclare class Movie in /home/imagecjd/public_html/rate/app/Controllers/Movie.php on line 12
+[10-Apr-2016 19:59:48 Europe/London] PHP Fatal error:  Cannot redeclare class Controller\Movie in /home/imagecjd/public_html/rate/app/Controllers/Movie.php on line 190
+[10-Apr-2016 19:59:50 Europe/London] PHP Fatal error:  Cannot redeclare class Controller\Movie in /home/imagecjd/public_html/rate/app/Controllers/Movie.php on line 190
+[10-Apr-2016 20:01:13 Europe/London] PHP Fatal error:  Cannot redeclare class Controller\movie in /home/imagecjd/public_html/rate/app/Controllers/Movie.php on line 190
+[10-Apr-2016 20:01:17 Europe/London] PHP Fatal error:  Cannot redeclare class Controller\movie in /home/imagecjd/public_html/rate/app/Controllers/Movie.php on line 190
+[10-Apr-2016 20:02:41 Europe/London] PHP Fatal error:  Class 'Controllers\TMDB' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 27
+[10-Apr-2016 20:02:41 Europe/London] PHP Fatal error:  Class 'Controllers\TMDB' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 27
+[10-Apr-2016 20:04:05 Europe/London] PHP Fatal error:  Class 'Controllers\TMDB' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 27
+[10-Apr-2016 20:04:55 Europe/London] PHP Fatal error:  Class 'Controllers\controllers' not found in /home/imagecjd/public_html/rate/app/Controllers/tmdb-api.php on line 91
+[10-Apr-2016 20:05:55 Europe/London] PHP Fatal error:  Class 'Controllers\controllers' not found in /home/imagecjd/public_html/rate/app/Controllers/tmdb-api.php on line 91
+[10-Apr-2016 20:05:55 Europe/London] PHP Fatal error:  Class 'Controllers\TMDB' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 27
+[10-Apr-2016 20:07:20 Europe/London] PHP Fatal error:  Class 'Controllers\Movie' not found in /home/imagecjd/public_html/rate/app/Controllers/tmdb-api.php on line 509
+[10-Apr-2016 20:07:57 Europe/London] PHP Fatal error:  Class 'Controllers\Movie' not found in /home/imagecjd/public_html/rate/app/Controllers/tmdb-api.php on line 509
+[10-Apr-2016 20:08:17 Europe/London] PHP Fatal error:  Class 'Controllers\Movie' not found in /home/imagecjd/public_html/rate/app/Controllers/tmdb-api.php on line 509
+[10-Apr-2016 20:08:25 Europe/London] PHP Fatal error:  Class 'Controllers\Movie' not found in /home/imagecjd/public_html/rate/app/Controllers/tmdb-api.php on line 509
+[10-Apr-2016 20:08:35 Europe/London] PHP Fatal error:  Class 'Controllers\Movie' not found in /home/imagecjd/public_html/rate/app/Controllers/tmdb-api.php on line 509
+[10-Apr-2016 20:11:21 Europe/London] PHP Fatal error:  Class 'Controllers\Movie' not found in /home/imagecjd/public_html/rate/app/Controllers/tmdb-api.php on line 509
+[10-Apr-2016 20:11:22 Europe/London] PHP Fatal error:  Class 'Controllers\Movie' not found in /home/imagecjd/public_html/rate/app/Controllers/tmdb-api.php on line 509
+[10-Apr-2016 20:12:03 Europe/London] PHP Fatal error:  Class 'Controllers\Movie' not found in /home/imagecjd/public_html/rate/app/Controllers/tmdb-api.php on line 509
+[10-Apr-2016 20:43:50 Europe/London] PHP Fatal error:  Cannot redeclare class Controllers\welcome in /home/imagecjd/public_html/rate/app/Controllers/Movie.php on line 191
+[10-Apr-2016 20:44:43 Europe/London] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/imagecjd/public_html/rate/app/Controllers/Movie.php on line 192
+[10-Apr-2016 20:45:06 Europe/London] PHP Fatal error:  Cannot redeclare class Controllers\welcome in /home/imagecjd/public_html/rate/app/Controllers/Movie.php on line 191
+[10-Apr-2016 20:45:40 Europe/London] PHP Fatal error:  Cannot redeclare class Controllers\welcome in /home/imagecjd/public_html/rate/app/Controllers/Movie.php on line 191
+[10-Apr-2016 20:46:12 Europe/London] PHP Fatal error:  Class 'TMDB' not found in /home/imagecjd/public_html/rate/app/Controllers/Movie.php on line 17
+[10-Apr-2016 20:47:16 Europe/London] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/imagecjd/public_html/rate/app/Controllers/Movie.php on line 17
+[10-Apr-2016 20:48:17 Europe/London] PHP Fatal error:  Class 'TMDB' not found in /home/imagecjd/public_html/rate/app/Controllers/Movie.php on line 17
+[10-Apr-2016 20:48:41 Europe/London] PHP Fatal error:  Class 'Controllers\Movie' not found in /home/imagecjd/public_html/rate/app/Controllers/tmdb-api.php on line 509
+[10-Apr-2016 20:48:55 Europe/London] PHP Fatal error:  Class 'Controllers\Movie' not found in /home/imagecjd/public_html/rate/app/Controllers/tmdb-api.php on line 509
+[10-Apr-2016 21:49:45 Europe/London] PHP Parse error:  syntax error, unexpected '=' in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 55
+[10-Apr-2016 21:49:49 Europe/London] PHP Parse error:  syntax error, unexpected '=' in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 55
+[10-Apr-2016 21:49:55 Europe/London] PHP Parse error:  syntax error, unexpected '=' in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 55
+[10-Apr-2016 21:50:04 Europe/London] PHP Parse error:  syntax error, unexpected '=' in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 55
+[10-Apr-2016 21:50:17 Europe/London] PHP Parse error:  syntax error, unexpected '=' in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 55
+[10-Apr-2016 21:50:28 Europe/London] PHP Parse error:  syntax error, unexpected '=' in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 55
+[10-Apr-2016 21:50:37 Europe/London] PHP Parse error:  syntax error, unexpected '=' in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 55
+[10-Apr-2016 21:50:59 Europe/London] PHP Parse error:  syntax error, unexpected '=' in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 55
+[10-Apr-2016 21:51:25 Europe/London] PHP Parse error:  syntax error, unexpected '=' in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 55
+[10-Apr-2016 21:51:33 Europe/London] PHP Parse error:  syntax error, unexpected '=' in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 55
+[10-Apr-2016 23:01:09 Europe/London] PHP Parse error:  syntax error, unexpected '?' in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 60
+[11-Apr-2016 23:50:11 Europe/London] PHP Fatal error:  Call to a member function getID() on null in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 42
+[11-Apr-2016 23:54:40 Europe/London] PHP Fatal error:  Cannot use object of type Controllers\Movie as array in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 57
+[11-Apr-2016 23:54:43 Europe/London] PHP Fatal error:  Cannot use object of type Controllers\Movie as array in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 57
+[11-Apr-2016 23:57:04 Europe/London] PHP Fatal error:  Cannot use object of type Controllers\Movie as array in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 57
+[12-Apr-2016 00:06:20 Europe/London] PHP Fatal error:  Call to undefined function Controllers\getID() in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 41
+[12-Apr-2016 00:06:21 Europe/London] PHP Fatal error:  Call to undefined function Controllers\getID() in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 41
+[12-Apr-2016 00:07:30 Europe/London] PHP Fatal error:  Call to undefined function Controllers\getID() in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 41
+[12-Apr-2016 00:10:03 Europe/London] PHP Fatal error:  Call to undefined function Controllers\getID() in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 41
+[12-Apr-2016 00:17:13 Europe/London] PHP Fatal error:  Call to a member function getID() on null in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 52
+[12-Apr-2016 00:17:53 Europe/London] PHP Fatal error:  Cannot use object of type Controllers\Movie as array in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 59
+[12-Apr-2016 00:25:14 Europe/London] PHP Fatal error:  Call to a member function getID() on null in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 52
+[12-Apr-2016 00:38:08 Europe/London] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 74
+[12-Apr-2016 00:46:26 Europe/London] PHP Fatal error:  Call to undefined function Controllers\getID() in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 41
+[12-Apr-2016 01:08:23 Europe/London] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 64
+[12-Apr-2016 01:08:24 Europe/London] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 64
+[12-Apr-2016 02:04:06 Europe/London] PHP Fatal error:  Call to a member function getImageURL() on null in /home/imagecjd/public_html/rate/app/views/welcome/add_Movie.php on line 16
+[12-Apr-2016 02:07:27 Europe/London] PHP Fatal error:  Call to a member function getImageURL() on null in /home/imagecjd/public_html/rate/app/views/welcome/add_Movie.php on line 16
+[12-Apr-2016 02:07:29 Europe/London] PHP Fatal error:  Call to a member function getImageURL() on null in /home/imagecjd/public_html/rate/app/views/welcome/add_Movie.php on line 16
+[12-Apr-2016 02:08:35 Europe/London] PHP Fatal error:  Call to a member function getTitle() on array in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 55
+[12-Apr-2016 02:11:08 Europe/London] PHP Fatal error:  Call to a member function getTitle() on array in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 55
+[12-Apr-2016 02:11:22 Europe/London] PHP Fatal error:  Call to a member function getTitle() on array in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 55
+[12-Apr-2016 02:24:13 Europe/London] PHP Fatal error:  Call to a member function getTitle() on array in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 55
+[12-Apr-2016 13:05:59 Europe/London] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 76
+[12-Apr-2016 14:32:57 Europe/London] PHP Fatal error:  Class 'Controllers\Welcome' not found in /home/imagecjd/public_html/rate/app/Core/Router.php on line 122
+[12-Apr-2016 14:35:03 Europe/London] PHP Fatal error:  Class 'Controllers\Welcome' not found in /home/imagecjd/public_html/rate/app/Core/Router.php on line 122
+[12-Apr-2016 14:35:33 Europe/London] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 79
+[12-Apr-2016 14:36:54 Europe/London] PHP Fatal error:  Class 'Controllers\Welcome' not found in /home/imagecjd/public_html/rate/app/Core/Router.php on line 122
+[12-Apr-2016 14:43:48 Europe/London] PHP Fatal error:  Call to a member function getImageURL() on null in /home/imagecjd/public_html/rate/app/views/welcome/add_Movie.php on line 12
+[12-Apr-2016 15:37:02 Europe/London] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 81
+[12-Apr-2016 20:04:03 Europe/London] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 72
+[13-Apr-2016 13:39:35 Europe/London] PHP Fatal error:  Function name must be a string in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 87
+[13-Apr-2016 13:40:21 Europe/London] PHP Fatal error:  Function name must be a string in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 87
+[13-Apr-2016 13:41:21 Europe/London] PHP Fatal error:  Function name must be a string in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 87
+[13-Apr-2016 18:22:34 Europe/London] PHP Fatal error:  Call to undefined method Models\Math_Model::saveMovie() in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 100
+[14-Apr-2016 11:41:44 Europe/London] PHP Fatal error:  Cannot use [] for reading in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 110
+[14-Apr-2016 19:09:35 Europe/London] PHP Fatal error:  Class 'Models\Movie_Model' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 33
+[14-Apr-2016 20:12:04 Europe/London] PHP Fatal error:  Class 'Addmovie' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 29
+[14-Apr-2016 20:12:33 Europe/London] PHP Fatal error:  Class 'Addmovie' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 29
+[14-Apr-2016 20:14:02 Europe/London] PHP Fatal error:  Class 'addmovie' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 29
+[14-Apr-2016 20:14:03 Europe/London] PHP Fatal error:  Class 'addmovie' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 29
+[14-Apr-2016 20:14:04 Europe/London] PHP Fatal error:  Class 'addmovie' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 29
+[14-Apr-2016 20:14:08 Europe/London] PHP Fatal error:  Class 'addmovie' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 29
+[14-Apr-2016 20:15:13 Europe/London] PHP Fatal error:  Class 'addmovie' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 29
+[14-Apr-2016 20:15:45 Europe/London] PHP Fatal error:  Class 'addmovie' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 29
+[14-Apr-2016 20:16:12 Europe/London] PHP Fatal error:  Class 'addmovie' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 29
+[14-Apr-2016 20:18:02 Europe/London] PHP Fatal error:  Class 'addmovie' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 29
+[14-Apr-2016 20:19:38 Europe/London] PHP Fatal error:  Class 'addmovie' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 29
+[14-Apr-2016 20:19:39 Europe/London] PHP Fatal error:  Class 'addmovie' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 29
+[14-Apr-2016 20:36:22 Europe/London] PHP Fatal error:  Class 'Controllers\addmovie' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 29
+[14-Apr-2016 21:01:39 Europe/London] PHP Fatal error:  Class 'Controllers\Welcome' not found in /home/imagecjd/public_html/rate/app/Core/Router.php on line 122
+[14-Apr-2016 21:03:54 Europe/London] PHP Fatal error:  Cannot redeclare class Controllers\TMDB in /home/imagecjd/public_html/rate/app/Controllers/tmdb-api.php on line 571
+[14-Apr-2016 21:04:24 Europe/London] PHP Fatal error:  Cannot redeclare class Controllers\TMDB in /home/imagecjd/public_html/rate/app/Controllers/tmdb-api.php on line 571
+[14-Apr-2016 21:04:25 Europe/London] PHP Fatal error:  Cannot redeclare class Controllers\TMDB in /home/imagecjd/public_html/rate/app/Controllers/tmdb-api.php on line 571
+[14-Apr-2016 21:04:28 Europe/London] PHP Fatal error:  Cannot redeclare class Controllers\TMDB in /home/imagecjd/public_html/rate/app/Controllers/tmdb-api.php on line 571
+[14-Apr-2016 21:04:38 Europe/London] PHP Fatal error:  Cannot redeclare class Controllers\TMDB in /home/imagecjd/public_html/rate/app/Controllers/tmdb-api.php on line 571
+[14-Apr-2016 21:04:44 Europe/London] PHP Fatal error:  Cannot redeclare class Controllers\TMDB in /home/imagecjd/public_html/rate/app/Controllers/tmdb-api.php on line 571
+[14-Apr-2016 21:05:01 Europe/London] PHP Fatal error:  Cannot redeclare class Controllers\TMDB in /home/imagecjd/public_html/rate/app/Controllers/tmdb-api.php on line 571
+[14-Apr-2016 21:05:33 Europe/London] PHP Fatal error:  Cannot redeclare class Controllers\TMDB in /home/imagecjd/public_html/rate/app/Controllers/tmdb-api.php on line 571
+[14-Apr-2016 21:05:38 Europe/London] PHP Fatal error:  Cannot redeclare class Controllers\TMDB in /home/imagecjd/public_html/rate/app/Controllers/tmdb-api.php on line 571
+[14-Apr-2016 21:07:01 Europe/London] PHP Fatal error:  Class 'Controllers\Welcome' not found in /home/imagecjd/public_html/rate/app/Core/Router.php on line 122
+[14-Apr-2016 21:07:46 Europe/London] PHP Fatal error:  Call to a member function searchMovie() on null in /home/imagecjd/public_html/rate/app/Controllers/addmovie.php on line 45
+[14-Apr-2016 21:08:39 Europe/London] PHP Fatal error:  Call to a member function searchMovie() on null in /home/imagecjd/public_html/rate/app/Controllers/addmovie.php on line 45
+[14-Apr-2016 21:08:44 Europe/London] PHP Fatal error:  Call to a member function searchMovie() on null in /home/imagecjd/public_html/rate/app/Controllers/addmovie.php on line 45
+[14-Apr-2016 21:10:43 Europe/London] PHP Fatal error:  Call to a member function test() on null in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 28
+[14-Apr-2016 21:12:28 Europe/London] PHP Fatal error:  Call to undefined method Controllers\addmovie::test() in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 27
+[14-Apr-2016 21:12:31 Europe/London] PHP Fatal error:  Call to undefined method Controllers\addmovie::test() in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 27
+[14-Apr-2016 21:12:37 Europe/London] PHP Fatal error:  Call to undefined method Controllers\addmovie::test() in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 27
+[14-Apr-2016 21:16:53 Europe/London] PHP Parse error:  syntax error, unexpected 'View' (T_STRING), expecting function (T_FUNCTION) in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 43
+[14-Apr-2016 21:17:23 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 50
+[14-Apr-2016 21:56:59 Europe/London] PHP Fatal error:  Class 'Controllers\Add_Games' not found in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 32
+[14-Apr-2016 21:59:55 Europe/London] PHP Fatal error:  Call to undefined method Controllers\Add_Games::Test() in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 34
+[14-Apr-2016 22:00:23 Europe/London] PHP Fatal error:  Call to undefined method Controllers\Add_Games::Test() in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 34
+[14-Apr-2016 22:00:38 Europe/London] PHP Fatal error:  Call to undefined method Controllers\Add_Games::Test() in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 34
+[14-Apr-2016 22:40:28 Europe/London] PHP Fatal error:  Class 'Controllers\Models' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 36
+[14-Apr-2016 22:40:29 Europe/London] PHP Fatal error:  Class 'Controllers\Models' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 36
+[14-Apr-2016 22:43:11 Europe/London] PHP Fatal error:  Undefined constant 'Models' in /home/imagecjd/public_html/rate/app/Models/Add_Game.php on line 9
+[14-Apr-2016 22:43:12 Europe/London] PHP Fatal error:  Undefined constant 'Models' in /home/imagecjd/public_html/rate/app/Models/Add_Game.php on line 9
+[14-Apr-2016 22:43:57 Europe/London] PHP Fatal error:  Undefined constant 'Models' in /home/imagecjd/public_html/rate/app/Models/Add_Game.php on line 9
+[14-Apr-2016 22:44:43 Europe/London] PHP Fatal error:  Class 'Models\Add_Game' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 37
+[14-Apr-2016 22:45:27 Europe/London] PHP Fatal error:  Class 'Models\AddGame' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 38
+[14-Apr-2016 22:45:31 Europe/London] PHP Fatal error:  Class 'Models\AddGame' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 38
+[15-Apr-2016 21:18:06 Europe/London] PHP Fatal error:  Cannot instantiate abstract class Core\Controller in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 38
+[15-Apr-2016 21:19:54 Europe/London] PHP Fatal error:  Cannot instantiate abstract class Core\Controller in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 38
+[15-Apr-2016 21:20:37 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBomb' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 38
+[15-Apr-2016 21:21:15 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBomb\GiantBomb\GiantBomb' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 38
+[15-Apr-2016 21:21:34 Europe/London] PHP Fatal error:  Class 'GiantBomb\GiantBomb' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 38
+[15-Apr-2016 21:22:29 Europe/London] PHP Fatal error:  Cannot redeclare class GiantBomb in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb/GiantBomb.php on line 386
+[15-Apr-2016 21:23:02 Europe/London] PHP Fatal error:  Cannot redeclare class giantBomb in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb/GiantBomb.php on line 386
+[15-Apr-2016 21:24:15 Europe/London] PHP Fatal error:  Cannot redeclare class GiantBomb in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb/GiantBomb.php on line 386
+[15-Apr-2016 21:24:59 Europe/London] PHP Fatal error:  Cannot redeclare class giantBomb in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb/GiantBomb.php on line 386
+[15-Apr-2016 21:26:18 Europe/London] PHP Fatal error:  Cannot redeclare class giantBomb in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb/GiantBomb.php on line 386
+[15-Apr-2016 22:23:15 Europe/London] PHP Fatal error:  Class 'Controllers\Controller' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 23
+[15-Apr-2016 22:23:51 Europe/London] PHP Fatal error:  Class 'Controllers\controller' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 23
+[15-Apr-2016 22:25:16 Europe/London] PHP Fatal error:  Class 'Controllers\Controller' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 22
+[15-Apr-2016 22:35:07 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBomb\giantBomb' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 24
+[15-Apr-2016 22:36:44 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBomb\giantBomb' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 24
+[15-Apr-2016 22:37:32 Europe/London] PHP Fatal error:  Class 'Controllers\Exception' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb/GiantBomb.php on line 393
+[15-Apr-2016 22:55:14 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBomb\GiantBomb' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 24
+[15-Apr-2016 22:56:08 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBomb\GiantBomb' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 24
+[15-Apr-2016 22:59:21 Europe/London] PHP Fatal error:  Cannot redeclare Controllers\GiantBomb::__construct() in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb/GiantBomb.php on line 74
+[15-Apr-2016 22:59:42 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBomb\GiantBomb' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 24
+[15-Apr-2016 23:00:17 Europe/London] PHP Fatal error:  Cannot redeclare Controllers\giantBomb::__construct() in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb/GiantBomb.php on line 74
+[15-Apr-2016 23:00:24 Europe/London] PHP Fatal error:  Cannot redeclare Controllers\giantBomb::__construct() in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb/GiantBomb.php on line 74
+[15-Apr-2016 23:01:05 Europe/London] PHP Fatal error:  Cannot redeclare Controllers\giant_Bomb::__construct() in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb/GiantBomb.php on line 74
+[15-Apr-2016 23:01:54 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBomb\GiantBomb' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 24
+[15-Apr-2016 23:03:01 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBomb\GiantBomb' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 24
+[15-Apr-2016 23:03:24 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBomb\GiantBomb' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 24
+[15-Apr-2016 23:04:24 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBomb\GiantBomb' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 24
+[15-Apr-2016 23:04:53 Europe/London] PHP Fatal error:  Class 'GiantBomb\GiantBomb' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 24
+[15-Apr-2016 23:05:14 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBomb' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 24
+[15-Apr-2016 23:05:45 Europe/London] PHP Fatal error:  Class 'Controllers\Controllers\GiantBomb\GiantBomb' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 24
+[15-Apr-2016 23:08:01 Europe/London] PHP Fatal error:  Class 'Controllers\Controllers\GiantBomb\GiantBomb' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 24
+[15-Apr-2016 23:09:05 Europe/London] PHP Fatal error:  Class 'GiantBomb\GiantBomb' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 24
+[15-Apr-2016 23:09:26 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBomb\GiantBomb' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 24
+[15-Apr-2016 23:09:52 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBomb\GiantBomb' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 24
+[15-Apr-2016 23:09:58 Europe/London] PHP Fatal error:  Class 'Controllers\Controllers' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 24
+[15-Apr-2016 23:10:18 Europe/London] PHP Parse error:  syntax error, unexpected '/' in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 24
+[15-Apr-2016 23:10:49 Europe/London] PHP Fatal error:  Class 'GiantBomb\GiantBomb' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 24
+[15-Apr-2016 23:11:20 Europe/London] PHP Fatal error:  Class 'Controllers\Controllers\GiantBomb\GiantBomb' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 24
+[15-Apr-2016 23:11:39 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBomb\GiantBomb' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 24
+[15-Apr-2016 23:17:35 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBomb' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 24
+[15-Apr-2016 23:18:02 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBomb' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 24
+[15-Apr-2016 23:18:37 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBomb' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 24
+[15-Apr-2016 23:20:56 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBomb' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 24
+[15-Apr-2016 23:23:32 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBomb' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 24
+[15-Apr-2016 23:29:57 Europe/London] PHP Fatal error:  Class 'GiantBomb' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 24
+[15-Apr-2016 23:33:42 Europe/London] PHP Fatal error:  Class 'GiantBomb' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 24
+[15-Apr-2016 23:36:19 Europe/London] PHP Fatal error:  Class 'GiantBomb' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 24
+[15-Apr-2016 23:39:49 Europe/London] PHP Fatal error:  Class 'Controllers\Exception' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 400
+[16-Apr-2016 13:15:57 Europe/London] PHP Fatal error:  Cannot redeclare class GiantBombException in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 416
+[16-Apr-2016 13:17:56 Europe/London] PHP Warning:  Unterminated comment starting line 387 in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 387
+[16-Apr-2016 13:17:56 Europe/London] PHP Fatal error:  Cannot redeclare class GiantBomb in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 13
+[16-Apr-2016 13:18:50 Europe/London] PHP Warning:  Unterminated comment starting line 386 in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 386
+[16-Apr-2016 13:18:50 Europe/London] PHP Fatal error:  Class 'Controller' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 12
+[16-Apr-2016 13:21:14 Europe/London] PHP Warning:  Unterminated comment starting line 391 in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 391
+[16-Apr-2016 19:08:02 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 35
+[16-Apr-2016 19:08:32 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 35
+[16-Apr-2016 19:11:59 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 35
+[16-Apr-2016 19:25:58 Europe/London] PHP Fatal error:  Cannot use [] for reading in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 39
+[19-Apr-2016 02:59:20 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 64

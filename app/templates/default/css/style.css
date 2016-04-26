@@ -1,0 +1,32 @@
+/* Your styles here */
+
+/* Your styles here */
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 5, 2016, 7:53:42 PM
+    Author     : lenovo
+*/
+
+*{margin: 0px; 
+  padding: 0px;}
+
+header, section, footer{display: block;} /* this will position all these tags one under other */
+
+#header{background: beige; 
+padding: 20px;}
+
+#header span{display: inline-block;} /* this will position all these tags next to eachother */
+
+.siteSearch{float: right;}
+
+#section img{display: inline-block;}
+/*margin is top, right, bottom and left*/
+
+
+
+
