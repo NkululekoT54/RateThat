@@ -30,10 +30,10 @@ class GiantBomb extends Controller{
      * @access private 
      * @type   string
      */
-    private $resp_type = "json";
+    private $resp_type = "xml";
     
     /**
-     * A variable to hold the formatted result of  
+     * A variable to hold the formatted result of
      * last api request
      *
      * @access public
@@ -307,6 +307,8 @@ class GiantBomb extends Controller{
 			'resources'		=> implode(',', $resources)
         ));
 
+
+            
         return $this->parse_result($resp['data']);
     }
 	
@@ -365,11 +367,11 @@ class GiantBomb extends Controller{
 	{
         try 
 		{
-            if ($this->resp_type == "json") 
+            if ($this->resp_type == "json")
 			{
                 $result = @json_decode($data);
-            } 
-			else 
+            }
+			else
 			{
                 $result = @simplexml_load_string($data);
             }

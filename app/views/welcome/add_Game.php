@@ -36,7 +36,7 @@ $title = $data['title'];
 
 <?php echo('
 <form action="#" method="get">
-<input type="text" name="name" placeholder="Search Game"></input><br/>
+<input type="text" name="GameName" placeholder="Search Game"></input><br/>
 
 <input type="submit" name="submit" value="Search"></input>
 </form>');

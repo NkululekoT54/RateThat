@@ -52,8 +52,8 @@ class addmovie extends Controller
         View::render('welcome/search_movie', $data);
  
  //render the view
-        if(isset( $_GET["name"] )){
-                                    $movieName=$_GET['name'];
+        if(isset( $_GET["Moviename"] )){
+                                    $movieName=$_GET['Moviename'];
                                     $movies = $tmdb->searchMovie($movieName); 
                                     $data['movies'] =$movies;
          View::render('welcome/add_Movie', $data);}
@@ -69,10 +69,10 @@ class addmovie extends Controller
 //}
 
 
-            if(isset($_GET["movieID"]) ){
-            $movie_ID=$_GET["movieID"];
+            if(isset($_GET["movie"]) ){
+            $movie_ID=$_GET["movie"];
  
- 
+          
             $movie_Info=$tmdb->getMovieInfo($movie_ID);
 
 
@@ -114,7 +114,7 @@ class addmovie extends Controller
                      );
    
 
-            $math->saveMovie($postdata);
+           $math->saveMovie($postdata);
         
     }
 }

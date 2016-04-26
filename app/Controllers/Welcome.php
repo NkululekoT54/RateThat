@@ -26,12 +26,15 @@ public function index() {
     
     //call main method inside movie class
     $add_Movie->getMovie();
-     $add_Game=new Add_Games();
+    
+    $add_Game=new Add_Games();
+    
+  
     // create new instance for 'Review a game' class
-    View::render('welcome/add_Game', $data);
-   
-   // //
+     View::render('welcome/add_Game', $data);
     $add_Game->GetGame();
+   // //
+   // $add_Game->GetGame();
     //
     View::renderTemplate('footer', $data);
 }

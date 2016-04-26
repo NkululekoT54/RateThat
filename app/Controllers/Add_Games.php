@@ -5,6 +5,8 @@ namespace Controllers;
 use Core\Controller;
 use Core\View;
 use Core\Model;
+use SimpleXMLElement;
+
 //include("Controllers\GiantBomb.php");
 include 'GiantBomb/GiantBomb.php';
 
@@ -26,20 +28,42 @@ parent::__construct();
        $giantbomb = array("name",
            "id",
            "image");
-	
-        
+
+        if(isset($_GET["GameName"])) {
+            $gameName = $_GET['GameName'];
+
+           //  $gameSearch=;
+         //   try {
+              $xml=$gb_obj->search($gameName,$giantbomb,10,1);
+               //  $xmlObject=new SimpleXMLElement($xml);
+          //    print_r($xml);
+                // $resultsOBject=simplexml_load_string($xml);
+             // echo($xml)
+           // } catch (Exception $e) {
+           //     echo 'Caught exception: ',  $e->getMessage(), "\n";
+          //  }
+
+           // $resultsOBject=simplexml_load_string($xml);
+              // print_r($xml);
+          foreach ($xml->results->children() as $item) {
+              echo (htmlentities($item->resource_type));
+          }
+
+        }
+
+
       // $giantBombApi->search('call of duty',10,2);
         echo("This Is a is Where I'll Add The Games");
-        $results=$gb_obj->search('BattleField',$giantbomb,10,1);
+       
         
         
-         $Arr = (array)$results;
+
         //print_r ( $Arr );
         // $name= array();
-        foreach($Arr as $var)
-        {
-           $name=$var['id'];            
-        }
+        //foreach($Arr as $var)
+      //  {
+        //   $name=$var['id'];            
+        //}
          //echo($gameNames);
         // print_r($name);
 
