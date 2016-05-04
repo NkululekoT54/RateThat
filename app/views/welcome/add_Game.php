@@ -14,29 +14,51 @@
 use Core\Language;
 
 
-$title = $data['title'];
+$xml = $data['xml'];
 
 
 
 
 ?>
 
-<div class="page-header">
-	<h1>Review Game</h1>
-</div>
+	<div class="page-header">
+		<h3>Which Game, Would you like to  write about ?</h3>
+	</div>
 
-<p>
-    <?php 
-
+<?php
 
 
+foreach ($xml->results->children() as $item) {
+	//echo(' <a href=" '. $item-> site_detail_url .'" >  </br>');
+	echo('<p style="  float:inherit;
+    ">'.$item->name . '</p>');
 
-?></p>
+	echo(' <div id="games" style="
+    float: left;
+">  ');
 
 
-<?php echo('
-<form action="#" method="get">
-<input type="text" name="GameName" placeholder="Search Game"></input><br/>
 
-<input type="submit" name="submit" value="Search"></input>
-</form>');
+	echo('
+	
+	
+	
+	<form action="#" method="get">
+	
+	<button name="gameID"  type="submit"  value="'.$item->id.'" > review</button>
+
+	</form>
+	
+
+	<img src ="' . $item->image->super_url . '"  style="
+    /* size: 45em; */
+    width: 15em;
+    height: 15em;
+  	padding-right: inherit;
+    
+    float: inherit;
+" /> </div>');
+;
+
+
+}

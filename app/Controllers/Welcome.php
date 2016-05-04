@@ -28,11 +28,17 @@ public function index() {
     $add_Movie->getMovie();
     
     $add_Game=new Add_Games();
-    
+
+
   
     // create new instance for 'Review a game' class
-     View::render('welcome/add_Game', $data);
-    $add_Game->GetGame();
+
+
+    
+     $add_Game->GetGame();
+     if(isset($_GET["gameID"])) {
+         $add_Game->addGame();
+     }
    // //
    // $add_Game->GetGame();
     //

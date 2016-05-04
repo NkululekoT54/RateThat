@@ -17,13 +17,6 @@ use Core\Model;
 
 class Movie_Model extends Model  {
     //put your code here
-public function Add($var1, $var2) {
-return $var1 + $var2;
-}
-
-public function Sub($var1, $var2) {
-return $var1 + $var2;
-}
 
 public function getMovies(){
 	
@@ -34,7 +27,7 @@ public Function saveMovie($Postdata)
 {
     
   
- $this->db->insert('movie',$Postdata);
+ $this->db->insert('content',$Postdata);
    
   // $this->model->insertContact($postdata); 
        

@@ -66,7 +66,7 @@ class GiantBomb extends Controller{
      *
      * @return void
      */
-    function __construct($key, $resp = "json") 
+    function __construct($key, $resp = "xml")
 	{
         // Set the api key
         $this->api_key = $key;
