@@ -10,26 +10,38 @@ namespace Models;
 
 use Core\Model;
 
-class Movie_Model extends Model
+class Game_Model extends Model
 {
+    function __construct(){
+        parent::__construct();
+    }
+
     //put your code here
 
     public function getGames()
     {
 
-        return $this->db->select('* games');
+        return $this->db->select('Select * content');
     }
 
-    public Function saveGame($Postdata)
+    public Function saveGame($data)
     {
 
 
-        $this->db->insert('game', $Postdata);
-        
-        // $this->model->insertContact($postdata);
+     //  $this->db->insert('content',$data);
 
+        // $this->model->insertContact($postdata);
+        $this->db->insert('game',$data);
         // $this->db->select('call storeMovie('.$title .','. $studio.','.$running_Time.','.$director.','.$realease_date.','.$producers.','.$IMDB.')');
-        //$this->db-> insert(PREFIX.'contacts', $data);
+    //    $this->db-> insert(PREFIX.'contacts', $data);
 
     }
+    public function saveContent($data)
+    {
+
+
+        $this->db->insert('content',$data);
+        return $this->db->lastInsertId('content_Id');
+    }
 }
+

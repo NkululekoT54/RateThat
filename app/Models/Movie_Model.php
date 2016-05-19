@@ -25,9 +25,9 @@ public function getMovies(){
 
 public Function saveMovie($Postdata)
 {
-    
-  
- $this->db->insert('content',$Postdata);
+
+
+    $this->db->insert('movie',$Postdata);
    
   // $this->model->insertContact($postdata); 
        
@@ -35,5 +35,6 @@ public Function saveMovie($Postdata)
    //$this->db-> insert(PREFIX.'contacts', $data);
     
 }
+
 
 }

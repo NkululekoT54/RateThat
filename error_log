@@ -301,3 +301,67 @@
 [16-Apr-2016 19:11:59 Europe/London] PHP Fatal error:  Cannot use object of type stdClass as array in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 35
 [16-Apr-2016 19:25:58 Europe/London] PHP Fatal error:  Cannot use [] for reading in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 39
 [19-Apr-2016 02:59:20 Europe/London] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/imagecjd/public_html/rate/app/Controllers/Welcome.php on line 64
+[26-Apr-2016 10:42:26 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 384
+[26-Apr-2016 10:42:27 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 384
+[26-Apr-2016 10:43:14 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 384
+[26-Apr-2016 10:43:24 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 384
+[26-Apr-2016 10:43:35 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 384
+[26-Apr-2016 10:43:41 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 384
+[26-Apr-2016 10:43:45 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 384
+[26-Apr-2016 10:43:56 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 384
+[26-Apr-2016 10:44:41 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 384
+[26-Apr-2016 10:44:43 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 384
+[26-Apr-2016 10:44:56 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 384
+[26-Apr-2016 11:35:04 Europe/London] PHP Fatal error:  Call to a member function children() on array in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 37
+[26-Apr-2016 11:42:11 Europe/London] PHP Fatal error:  Call to a member function children() on array in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 37
+[26-Apr-2016 12:58:17 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 386
+[26-Apr-2016 12:58:55 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 386
+[26-Apr-2016 15:55:52 Europe/London] PHP Fatal error:  Call to a member function children() on array in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 48
+[26-Apr-2016 15:55:54 Europe/London] PHP Fatal error:  Call to a member function children() on array in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 48
+[26-Apr-2016 15:58:04 Europe/London] PHP Fatal error:  Call to a member function children() on array in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 48
+[26-Apr-2016 15:58:06 Europe/London] PHP Fatal error:  Call to a member function children() on array in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 48
+[26-Apr-2016 16:04:45 Europe/London] PHP Fatal error:  Call to a member function children() on array in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 48
+[26-Apr-2016 16:04:47 Europe/London] PHP Fatal error:  Call to a member function children() on array in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 48
+[26-Apr-2016 16:05:26 Europe/London] PHP Fatal error:  Call to undefined method stdClass::children() in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 48
+[26-Apr-2016 16:07:19 Europe/London] PHP Fatal error:  Call to undefined method stdClass::children() in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 48
+[26-Apr-2016 16:07:21 Europe/London] PHP Fatal error:  Call to undefined method stdClass::children() in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 48
+[26-Apr-2016 16:09:20 Europe/London] PHP Fatal error:  Call to a member function children() on array in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 48
+[26-Apr-2016 16:10:25 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 386
+[26-Apr-2016 16:16:12 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 386
+[26-Apr-2016 16:16:41 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 386
+[26-Apr-2016 17:16:45 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 386
+[26-Apr-2016 18:16:40 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 51
+[26-Apr-2016 18:25:42 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 65
+[26-Apr-2016 18:45:13 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 386
+[28-Apr-2016 09:27:13 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 386
+[28-Apr-2016 17:49:52 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 386
+[28-Apr-2016 18:43:11 Europe/London] PHP Fatal error:  Call to a member function id() on null in /home/imagecjd/public_html/rate/app/views/welcome/add_Game.php on line 35
+[28-Apr-2016 19:36:29 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 386
+[28-Apr-2016 20:46:24 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 174
+[29-Apr-2016 08:22:35 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 174
+[29-Apr-2016 08:23:04 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 174
+[29-Apr-2016 15:32:43 Europe/London] PHP Parse error:  syntax error, unexpected ',' in /home/imagecjd/public_html/rate/app/templates/default/header.php on line 28
+[29-Apr-2016 15:32:44 Europe/London] PHP Parse error:  syntax error, unexpected ',' in /home/imagecjd/public_html/rate/app/templates/default/header.php on line 28
+[29-Apr-2016 15:32:44 Europe/London] PHP Parse error:  syntax error, unexpected ',' in /home/imagecjd/public_html/rate/app/templates/default/header.php on line 28
+[29-Apr-2016 15:32:59 Europe/London] PHP Parse error:  syntax error, unexpected ',' in /home/imagecjd/public_html/rate/app/templates/default/header.php on line 28
+[29-Apr-2016 15:33:03 Europe/London] PHP Parse error:  syntax error, unexpected ',' in /home/imagecjd/public_html/rate/app/templates/default/header.php on line 28
+[29-Apr-2016 16:20:38 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 174
+[29-Apr-2016 16:20:41 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 174
+[29-Apr-2016 16:39:22 Europe/London] PHP Fatal error:  Call to undefined function Controllers\addGame() in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 51
+[29-Apr-2016 16:43:37 Europe/London] PHP Fatal error:  Call to undefined function Controllers\addGame() in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 51
+[29-Apr-2016 16:43:38 Europe/London] PHP Fatal error:  Call to undefined function Controllers\addGame() in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 51
+[29-Apr-2016 17:10:58 Europe/London] PHP Fatal error:  Call to a member function children() on null in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 78
+[30-Apr-2016 17:31:07 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 386
+[30-Apr-2016 17:31:22 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 386
+[03-May-2016 01:43:36 Europe/London] PHP Fatal error:  Class 'models\Auth' not found in /home/imagecjd/public_html/rate/app/Controllers/auth.php on line 17
+[05-May-2016 21:48:03 Europe/London] PHP Fatal error:  Class 'Controllers\Core\Models\Game_Model' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 115
+[05-May-2016 21:49:33 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 386
+[05-May-2016 21:50:54 Europe/London] PHP Fatal error:  Class 'Models\Game_Model' not found in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 115
+[05-May-2016 22:05:35 Europe/London] PHP Fatal error:  Call to undefined function Models\echto() in /home/imagecjd/public_html/rate/app/Models/Game_Model.php on line 26
+[05-May-2016 22:16:23 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 386
+[05-May-2016 22:19:24 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 386
+[05-May-2016 22:19:26 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 386
+[06-May-2016 00:11:25 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 386
+[06-May-2016 00:17:17 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 386
+[06-May-2016 00:17:19 Europe/London] PHP Fatal error:  Class 'Controllers\GiantBombException' not found in /home/imagecjd/public_html/rate/app/Controllers/GiantBomb.php on line 386
+[06-May-2016 00:17:33 Europe/London] PHP Fatal error:  Call to undefined method Models\Movie_Model::saveGame() in /home/imagecjd/public_html/rate/app/Controllers/Add_Games.php on line 118

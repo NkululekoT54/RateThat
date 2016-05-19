@@ -1,13 +1,26 @@
 <?php
 
+
+
+
 namespace Controllers;
+
+/**
+ * Created by PhpStorm.
+ * User: Denzhe Sadiki
+ * Date: 03/7/2016
+ * Time: 3:26 AM
+ */
+
+
+
 
 use Core\Controller;
 use Core\View;
 use Core\Model;
 include("tmdb-api.php");
 
-            
+
 class welcome extends Controller{
 
 public function __construct() {
@@ -39,6 +52,12 @@ public function index() {
      if(isset($_GET["gameID"])) {
          $add_Game->addGame();
      }
+
+
+      $addBooks= new BooksApi();
+        $addBooks->SearchBook();
+
+
    // //
    // $add_Game->GetGame();
     //

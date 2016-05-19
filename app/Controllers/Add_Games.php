@@ -1,5 +1,13 @@
 <?php
 
+/*Author : Denzhelanga Sadiki
+
+ * Date : 2016 March 16
+ *
+ *
+ * 
+ *
+ * */
 namespace Controllers;
 
 use Core\Controller;
@@ -85,29 +93,50 @@ parent::__construct();
 
             $release_Date=$gameObject->results->children()-> original_release_date;
 
-            foreach ($gameObject->results->children()-> platforms as $item)
-            {
-                echo($item->platform->name);
+
+            $platform= array();
+           // foreach ($gameObject->results->children()-> platforms as $item)
+           // {
+             //   $platform[]=$item->platform->name;
 
 
-            }
-            foreach ($gameObject->results->children()-> genres as $item)
-            {
-                echo($item->genre->name);
+           // }
+            $genre=array();
+            //foreach ($gameObject->results->children()-> genres as $item)
+            //{
+             //   $genre[]=$item->genre->name;
 
 
-            }
+          //  }
 
+            $genreID='1';
+            $description="Game";
+
+
+            $data = array(
+
+                'tltle' => $name,
+                'description' => $description,
+                'genre_id'=>$genreID
+
+
+
+            );
+            $GameModel= new \Models\Game_Model();
+            $contentid=$GameModel->saveContent($data);
+            //new game model
             $postdata = array(
-                'title'=> $name,
-                'description'=>'movie',
-              
+                'content_Id'=>$contentid,
+                'publisher' => $name,
+                'release_Date' => $release_Date,
+                'platform'=>$genreID
             );
 
 
 
+          //  $GameModel->getGames();
 
-            echo("true");
+            $GameModel->saveGame($postdata);
 
 
 

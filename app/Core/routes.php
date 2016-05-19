@@ -16,6 +16,7 @@ use Helpers\Hooks;
 Router::any('', 'Controllers\Welcome@index');
 Router::any('subpage', 'Controllers\Welcome@subPage');
 Router::any('home', 'Controllers\Welcome@home');
+Router::any('login', 'Controllers\auth@login');
 
 /* Module routes. */
 $hooks = Hooks::get();
