@@ -11,9 +11,9 @@ $title = $data['title'];
 
 
 ?>
-
-<div class="page-header">
-	<h1>Review Movie</h1>
+<div class="MovieSearchWrapper">
+<div class="page-header ">
+	<h3>Which Movie would you like to review?</h3>
 </div>
 
 <p><?php echo $data['welcome_message'] 
@@ -25,10 +25,10 @@ $title = $data['title'];
 
 
 <?php echo('
-<form action="#" method="get">
-<input type="text" name="Moviename" placeholder="Search Movie"></input><br/>
+<form class="form-wrapper cf" action="#" method="get">
+<input type="text" name="Moviename" placeholder="Search Movie"> </input><br/>
 
-<input type="submit" name="submit" value="Search"></input>
-</form>');
-        
-        
+<button type="submit" name="submit" value="Search">search</button>
+</form>
+</div>');
+

@@ -6,7 +6,7 @@
  * Time: 12:48 AM
  */
 
-echo('</br>
+echo('<div class="BookSearchWrapper"></br>
                 </br>
                 </br>
                 </br>
@@ -27,4 +27,7 @@ echo('</br>
 
 <input type="submit" name="submit" value="Search"> </input>
 
-</form> ');
+</form> </div>');
+
+
+

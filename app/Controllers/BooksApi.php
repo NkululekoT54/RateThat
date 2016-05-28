@@ -40,14 +40,11 @@ class BooksApi extends Controller
             if(isset($_GET["BookName"])) {
                 $append = $_GET['BookName'];
                 $BookObject = $this->getBook($append);
+               
+                $data['Books']=$BookObject;
 
-                foreach ($BookObject->data as $item)
-                {
-                    echo("</br>");
-                    echo( '<img src="http://covers.openlibrary.org/b/isbn/'.$item->isbn13.'-M.jpg" />');
-                    echo($item->title);
-
-                }
+               
+                View::render('welcome/AddBook',$data);
 
 
             }
@@ -69,15 +66,15 @@ class BooksApi extends Controller
 
         //xml object from external API
 
-        $XmlObject = @simplexml_load_string($results);
-        return $XmlObject;
+        $jsonObject = simplexml_load_string($results);
+        return $jsonObject;
     }
 
     public function getBook($append) {
         
-        $url="http://isbndb.com/api/v2/xml/X3YS6B5O/books?q=.$append.";
-        $xmlobject= $this->_call($url);
-        return  $xmlobject;
+        $url="http://isbndb.com/api/v2/xml/DEER88FA/books?q=.$append.";
+        $jsonbject= $this->_call($url);
+        return  $jsonbject;
     }
 
 

@@ -33,7 +33,7 @@ public function index() {
     $data['title'] = 'Welcome';
 
     View::renderTemplate('header', $data);
-    
+   view::render('welcome/UserSelectionView');
     // create new instance for  'Review a  movie' class 
     $add_Movie=new addmovie();
     
